@@ -64,7 +64,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\1\Exercise_1.1.cpp" />
+    <ClCompile Include="Exercise_1.3.cpp" />
+    <ClCompile Include="Exercise_1.4.cpp" />
+    <ClCompile Include="Exercise_1.9.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Exercise_1.2.cpp" />
