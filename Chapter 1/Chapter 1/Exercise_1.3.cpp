@@ -1,15 +1,10 @@
-#include <iostream>
+#include "stdafx.h"
 
-class exercise_1_3
+	int PrintHelloWorld()
 {
+	std::cout << "Hello World " << std::endl;
 
-public:
-	static int PrintHelloWorld()
-	{
-		std::cout << "Hello World " << std::endl;
-
-		int v1;
-		std::cin >> v1;
-		return -1;
-	}
-};
+	int v1;
+	std::cin >> v1;
+	return 0;
+}

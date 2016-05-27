@@ -1,6 +1,8 @@
-#include <iostream>
+#include "stdafx.h"
 
-int main()
+int exercise_1_2()
 {
-	return -1;
+	std::cout << "Hello World" << std::endl;
+	return 0;
 }
+
