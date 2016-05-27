@@ -1,5 +1,0 @@
-﻿  Exercise_1.3.cpp
-  Exercise_1.4.cpp
-  Exercise_1.9.cpp
-MSVCRT.lib(crtexe.obj) : error LNK2001: unresolved external symbol _main
-C:\Users\JMckay\Desktop\GitHub Repositories\C-Plus-Plus-Repository\Chapter 1\Release\Chapter 1.exe : fatal error LNK1120: 1 unresolved externals
