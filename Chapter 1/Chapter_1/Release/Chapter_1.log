@@ -1,6 +1,28 @@
-﻿  Chapter_1.cpp
-  Exercise_1_13.cpp
-  Exercise_1_9.cpp
-  Generating code
-  Finished generating code
-  Chapter_1.vcxproj -> C:\Users\JMckay\Desktop\GitHub Repositories\C-Plus-Plus-Repository\Chapter 1\Release\Chapter_1.exe
+﻿Build started 5/28/2016 5:59:50 PM.
+     1>Project "C:\Users\Jon\Desktop\GitHub Repo\C-Plus-Plus-Repository\Chapter 1\Chapter_1\Chapter_1.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\Chapter_1.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\Chapter_1.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Chapter_1.cpp Exercise_1_13.cpp Exercise_1_2.cpp Exercise_1_3.cpp Exercise_1_4.cpp Exercise_1_9.cpp
+         Chapter_1.cpp
+         Exercise_1_13.cpp
+         Exercise_1_2.cpp
+         Exercise_1_3.cpp
+         Exercise_1_4.cpp
+         Exercise_1_9.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jon\Desktop\GitHub Repo\C-Plus-Plus-Repository\Chapter 1\Release\Chapter_1.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Jon\Desktop\GitHub Repo\C-Plus-Plus-Repository\Chapter 1\Release\Chapter_1.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Jon\Desktop\GitHub Repo\C-Plus-Plus-Repository\Chapter 1\Release\Chapter_1.lib" /MACHINE:X86 /SAFESEH Release\Chapter_1.obj
+         Release\Exercise_1_13.obj
+         Release\Exercise_1_2.obj
+         Release\Exercise_1_3.obj
+         Release\Exercise_1_4.obj
+         Release\Exercise_1_9.obj
+         Release\stdafx.obj
+         Generating code
+         Finished generating code
+         Chapter_1.vcxproj -> C:\Users\Jon\Desktop\GitHub Repo\C-Plus-Plus-Repository\Chapter 1\Release\Chapter_1.exe
+     1>Done Building Project "C:\Users\Jon\Desktop\GitHub Repo\C-Plus-Plus-Repository\Chapter 1\Chapter_1\Chapter_1.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.23
