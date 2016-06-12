@@ -13,3 +13,9 @@ int incrementWithWhileLoop();
 
 // Exercise 1.13
 int incrementWithForLoop();
+
+// Exercise 1.15
+int compilationErrors();
+
+// Exercise 1.16
+int sumOfNumbers();
