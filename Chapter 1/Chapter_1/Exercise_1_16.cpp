@@ -6,6 +6,7 @@ int sumOfNumbers()
 
 	std::cout << "Enter two numbers" << std::endl;
 
+	// Read two numbers in
 	std::cin >> v1;
 	std::cin >> v2;
 
