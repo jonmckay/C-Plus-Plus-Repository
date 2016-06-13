@@ -27,6 +27,9 @@
     <ClInclude Include="header.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Sales_item.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -54,6 +57,27 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Exercise_1_16.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Exercise_1_18.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Exercise_1_19.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Exercise_1_11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sales_item.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Exercise_1_20.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Exercise_1_21.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Exercise_1_22.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

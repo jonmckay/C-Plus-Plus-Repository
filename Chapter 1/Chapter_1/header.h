@@ -11,6 +11,9 @@ int productTwoNums();
 // Exercise 1.9
 int incrementWithWhileLoop();
 
+// Exercise 1.11
+int printRange();
+
 // Exercise 1.13
 int incrementWithForLoop();
 
@@ -19,3 +22,15 @@ int compilationErrors();
 
 // Exercise 1.16
 int sumOfNumbers();
+
+// Exercise 1.18
+int duplicateNumCount();
+
+// Exercise 1.19
+int rangeOfNumbersBothWays();
+
+// Exercise 1.20
+int readWriteBookTransaction();
+
+// Exercise 1.21
+int addTwoSalesItemObjects();

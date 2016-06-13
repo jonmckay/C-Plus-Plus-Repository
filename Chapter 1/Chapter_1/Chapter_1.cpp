@@ -17,13 +17,23 @@ int main(int argc, _TCHAR* argv[])
 
 	//productTwoNums();
 
+	//printRange();
+
 	//incrementWithWhileLoop();
 
 	//incrementWithForLoop();
 
 	//compilationErrors();
 
-	sumOfNumbers();
+	//sumOfNumbers();
+
+	//duplicateNumCount();
+
+	//rangeOfNumbersBothWays();
+
+	//readWriteBookTransaction();
+
+	addTwoSalesItemObjects();
 
 	cin.clear(); // reset any error flags
 	cin.ignore(32767, '\n'); // ignore any characters in the input buffer until we find an enter character
