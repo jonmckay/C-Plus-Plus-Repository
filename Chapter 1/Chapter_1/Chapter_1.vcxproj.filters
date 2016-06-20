@@ -68,9 +68,6 @@
     <ClCompile Include="Exercise_1_11.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Sales_item.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Exercise_1_20.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -78,6 +75,12 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Exercise_1_22.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Exercise_1_23.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Exercise_1_25.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

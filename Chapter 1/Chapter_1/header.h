@@ -34,3 +34,12 @@ int readWriteBookTransaction();
 
 // Exercise 1.21
 int addTwoSalesItemObjects();
+
+// Exercise 1.22
+int severalTransactions();
+
+// Exercise 1.23
+int transactionsPerIsbn();
+
+// Exercise 1.25
+int combineTotal();

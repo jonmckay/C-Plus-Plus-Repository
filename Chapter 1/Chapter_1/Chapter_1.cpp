@@ -33,7 +33,11 @@ int main(int argc, _TCHAR* argv[])
 
 	//readWriteBookTransaction();
 
-	addTwoSalesItemObjects();
+	//addTwoSalesItemObjects();
+
+	//transactionsPerIsbn();
+
+	combineTotal();
 
 	cin.clear(); // reset any error flags
 	cin.ignore(32767, '\n'); // ignore any characters in the input buffer until we find an enter character
